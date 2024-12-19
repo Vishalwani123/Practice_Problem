@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3844FC4-6B86-4643-9D36-661A4E2E023D}|PracticeProblem\\PracticeProblem.csproj|c:\\users\\vishal\\source\\repos\\practiceproblem\\practiceproblem\\longsubstr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3844FC4-6B86-4643-9D36-661A4E2E023D}|PracticeProblem\\PracticeProblem.csproj|solutionrelative:practiceproblem\\longsubstr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3844FC4-6B86-4643-9D36-661A4E2E023D}|PracticeProblem\\PracticeProblem.csproj|c:\\users\\vishal\\source\\repos\\practiceproblem\\practiceproblem\\reversewords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3844FC4-6B86-4643-9D36-661A4E2E023D}|PracticeProblem\\PracticeProblem.csproj|solutionrelative:practiceproblem\\reversewords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3844FC4-6B86-4643-9D36-661A4E2E023D}|PracticeProblem\\PracticeProblem.csproj|c:\\users\\vishal\\source\\repos\\practiceproblem\\practiceproblem\\unique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3844FC4-6B86-4643-9D36-661A4E2E023D}|PracticeProblem\\PracticeProblem.csproj|solutionrelative:practiceproblem\\unique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3844FC4-6B86-4643-9D36-661A4E2E023D}|PracticeProblem\\PracticeProblem.csproj|c:\\users\\vishal\\source\\repos\\practiceproblem\\practiceproblem\\primenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3844FC4-6B86-4643-9D36-661A4E2E023D}|PracticeProblem\\PracticeProblem.csproj|solutionrelative:practiceproblem\\primenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3844FC4-6B86-4643-9D36-661A4E2E023D}|PracticeProblem\\PracticeProblem.csproj|c:\\users\\vishal\\source\\repos\\practiceproblem\\practiceproblem\\anagramsstr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3844FC4-6B86-4643-9D36-661A4E2E023D}|PracticeProblem\\PracticeProblem.csproj|solutionrelative:practiceproblem\\anagramsstr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReverseWords.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem\\PracticeProblem\\ReverseWords.cs",
+              "RelativeDocumentMoniker": "PracticeProblem\\ReverseWords.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem\\PracticeProblem\\ReverseWords.cs",
+              "RelativeToolTip": "PracticeProblem\\ReverseWords.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:42:07.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LongSubStr.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem\\PracticeProblem\\LongSubStr.cs",
+              "RelativeDocumentMoniker": "PracticeProblem\\LongSubStr.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem\\PracticeProblem\\LongSubStr.cs",
+              "RelativeToolTip": "PracticeProblem\\LongSubStr.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:47:49.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnagramsStr.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem\\PracticeProblem\\AnagramsStr.cs",
+              "RelativeDocumentMoniker": "PracticeProblem\\AnagramsStr.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem\\PracticeProblem\\AnagramsStr.cs",
+              "RelativeToolTip": "PracticeProblem\\AnagramsStr.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwC8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:47:18.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrimeNum.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem\\PracticeProblem\\PrimeNum.cs",
+              "RelativeDocumentMoniker": "PracticeProblem\\PrimeNum.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem\\PracticeProblem\\PrimeNum.cs",
+              "RelativeToolTip": "PracticeProblem\\PrimeNum.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T05:25:19.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Unique.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem\\PracticeProblem\\Unique.cs",
+              "RelativeDocumentMoniker": "PracticeProblem\\Unique.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem\\PracticeProblem\\Unique.cs",
+              "RelativeToolTip": "PracticeProblem\\Unique.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T04:36:06.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D27D3C41-7231-4D36-A54B-5157D8491671}|PracticeProblem2\\PracticeProblem2.csproj|c:\\users\\vishal\\source\\repos\\practiceproblem2\\practiceproblem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27D3C41-7231-4D36-A54B-5157D8491671}|PracticeProblem2\\PracticeProblem2.csproj|solutionrelative:practiceproblem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27D3C41-7231-4D36-A54B-5157D8491671}|PracticeProblem2\\PracticeProblem2.csproj|c:\\users\\vishal\\source\\repos\\practiceproblem2\\practiceproblem2\\comint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27D3C41-7231-4D36-A54B-5157D8491671}|PracticeProblem2\\PracticeProblem2.csproj|solutionrelative:practiceproblem2\\comint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27D3C41-7231-4D36-A54B-5157D8491671}|PracticeProblem2\\PracticeProblem2.csproj|c:\\users\\vishal\\source\\repos\\practiceproblem2\\practiceproblem2\\remvowels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27D3C41-7231-4D36-A54B-5157D8491671}|PracticeProblem2\\PracticeProblem2.csproj|solutionrelative:practiceproblem2\\remvowels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27D3C41-7231-4D36-A54B-5157D8491671}|PracticeProblem2\\PracticeProblem2.csproj|c:\\users\\vishal\\source\\repos\\practiceproblem2\\practiceproblem2\\permutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27D3C41-7231-4D36-A54B-5157D8491671}|PracticeProblem2\\PracticeProblem2.csproj|solutionrelative:practiceproblem2\\permutations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27D3C41-7231-4D36-A54B-5157D8491671}|PracticeProblem2\\PracticeProblem2.csproj|c:\\users\\vishal\\source\\repos\\practiceproblem2\\practiceproblem2\\dectobin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27D3C41-7231-4D36-A54B-5157D8491671}|PracticeProblem2\\PracticeProblem2.csproj|solutionrelative:practiceproblem2\\dectobin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27D3C41-7231-4D36-A54B-5157D8491671}|PracticeProblem2\\PracticeProblem2.csproj|c:\\users\\vishal\\source\\repos\\practiceproblem2\\practiceproblem2\\sumdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27D3C41-7231-4D36-A54B-5157D8491671}|PracticeProblem2\\PracticeProblem2.csproj|solutionrelative:practiceproblem2\\sumdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComInt.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem2\\PracticeProblem2\\ComInt.cs",
+              "RelativeDocumentMoniker": "PracticeProblem2\\ComInt.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem2\\PracticeProblem2\\ComInt.cs",
+              "RelativeToolTip": "PracticeProblem2\\ComInt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T20:00:53.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RemVowels.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem2\\PracticeProblem2\\RemVowels.cs",
+              "RelativeDocumentMoniker": "PracticeProblem2\\RemVowels.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem2\\PracticeProblem2\\RemVowels.cs",
+              "RelativeToolTip": "PracticeProblem2\\RemVowels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T19:38:50.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Permutations.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem2\\PracticeProblem2\\Permutations.cs",
+              "RelativeDocumentMoniker": "PracticeProblem2\\Permutations.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem2\\PracticeProblem2\\Permutations.cs",
+              "RelativeToolTip": "PracticeProblem2\\Permutations.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:54:02.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DecToBin.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem2\\PracticeProblem2\\DecToBin.cs",
+              "RelativeDocumentMoniker": "PracticeProblem2\\DecToBin.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem2\\PracticeProblem2\\DecToBin.cs",
+              "RelativeToolTip": "PracticeProblem2\\DecToBin.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:45:04.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SumDigit.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem2\\PracticeProblem2\\SumDigit.cs",
+              "RelativeDocumentMoniker": "PracticeProblem2\\SumDigit.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem2\\PracticeProblem2\\SumDigit.cs",
+              "RelativeToolTip": "PracticeProblem2\\SumDigit.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:29:58.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem2\\PracticeProblem2\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeProblem2\\Program.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\PracticeProblem2\\PracticeProblem2\\Program.cs",
+              "RelativeToolTip": "PracticeProblem2\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAqwEcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T18:29:29.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
