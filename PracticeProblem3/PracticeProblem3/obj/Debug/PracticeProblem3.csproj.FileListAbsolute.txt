@@ -1,0 +1,7 @@
+C:\Users\Vishal\source\repos\PracticeProblem3\PracticeProblem3\bin\Debug\PracticeProblem3.exe.config
+C:\Users\Vishal\source\repos\PracticeProblem3\PracticeProblem3\bin\Debug\PracticeProblem3.exe
+C:\Users\Vishal\source\repos\PracticeProblem3\PracticeProblem3\bin\Debug\PracticeProblem3.pdb
+C:\Users\Vishal\source\repos\PracticeProblem3\PracticeProblem3\obj\Debug\PracticeProblem3.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\PracticeProblem3\PracticeProblem3\obj\Debug\PracticeProblem3.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\PracticeProblem3\PracticeProblem3\obj\Debug\PracticeProblem3.exe
+C:\Users\Vishal\source\repos\PracticeProblem3\PracticeProblem3\obj\Debug\PracticeProblem3.pdb
