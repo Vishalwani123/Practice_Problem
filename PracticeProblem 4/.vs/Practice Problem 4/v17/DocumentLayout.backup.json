@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{630006EA-5C91-49A6-910B-CA9E92251D43}|Practice Problem 4\\Practice Problem 4.csproj|c:\\users\\vishal\\source\\repos\\practice problem 4\\practice problem 4\\sumevenodd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630006EA-5C91-49A6-910B-CA9E92251D43}|Practice Problem 4\\Practice Problem 4.csproj|solutionrelative:practice problem 4\\sumevenodd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630006EA-5C91-49A6-910B-CA9E92251D43}|Practice Problem 4\\Practice Problem 4.csproj|c:\\users\\vishal\\source\\repos\\practice problem 4\\practice problem 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630006EA-5C91-49A6-910B-CA9E92251D43}|Practice Problem 4\\Practice Problem 4.csproj|solutionrelative:practice problem 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630006EA-5C91-49A6-910B-CA9E92251D43}|Practice Problem 4\\Practice Problem 4.csproj|c:\\users\\vishal\\source\\repos\\practice problem 4\\practice problem 4\\uniquestr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630006EA-5C91-49A6-910B-CA9E92251D43}|Practice Problem 4\\Practice Problem 4.csproj|solutionrelative:practice problem 4\\uniquestr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630006EA-5C91-49A6-910B-CA9E92251D43}|Practice Problem 4\\Practice Problem 4.csproj|c:\\users\\vishal\\source\\repos\\practice problem 4\\practice problem 4\\perfectsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630006EA-5C91-49A6-910B-CA9E92251D43}|Practice Problem 4\\Practice Problem 4.csproj|solutionrelative:practice problem 4\\perfectsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630006EA-5C91-49A6-910B-CA9E92251D43}|Practice Problem 4\\Practice Problem 4.csproj|c:\\users\\vishal\\source\\repos\\practice problem 4\\practice problem 4\\workday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630006EA-5C91-49A6-910B-CA9E92251D43}|Practice Problem 4\\Practice Problem 4.csproj|solutionrelative:practice problem 4\\workday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630006EA-5C91-49A6-910B-CA9E92251D43}|Practice Problem 4\\Practice Problem 4.csproj|c:\\users\\vishal\\source\\repos\\practice problem 4\\practice problem 4\\trafficlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630006EA-5C91-49A6-910B-CA9E92251D43}|Practice Problem 4\\Practice Problem 4.csproj|solutionrelative:practice problem 4\\trafficlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UniqueStr.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 4\\Practice Problem 4\\UniqueStr.cs",
+              "RelativeDocumentMoniker": "Practice Problem 4\\UniqueStr.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 4\\Practice Problem 4\\UniqueStr.cs",
+              "RelativeToolTip": "Practice Problem 4\\UniqueStr.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:18:13.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PerfectSquare.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 4\\Practice Problem 4\\PerfectSquare.cs",
+              "RelativeDocumentMoniker": "Practice Problem 4\\PerfectSquare.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 4\\Practice Problem 4\\PerfectSquare.cs",
+              "RelativeToolTip": "Practice Problem 4\\PerfectSquare.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T06:09:06.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SumEvenOdd.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 4\\Practice Problem 4\\SumEvenOdd.cs",
+              "RelativeDocumentMoniker": "Practice Problem 4\\SumEvenOdd.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 4\\Practice Problem 4\\SumEvenOdd.cs",
+              "RelativeToolTip": "Practice Problem 4\\SumEvenOdd.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T05:58:41.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkDay.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 4\\Practice Problem 4\\WorkDay.cs",
+              "RelativeDocumentMoniker": "Practice Problem 4\\WorkDay.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 4\\Practice Problem 4\\WorkDay.cs",
+              "RelativeToolTip": "Practice Problem 4\\WorkDay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T05:18:15.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrafficLight.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 4\\Practice Problem 4\\TrafficLight.cs",
+              "RelativeDocumentMoniker": "Practice Problem 4\\TrafficLight.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 4\\Practice Problem 4\\TrafficLight.cs",
+              "RelativeToolTip": "Practice Problem 4\\TrafficLight.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:47:49.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 4\\Practice Problem 4\\Program.cs",
+              "RelativeDocumentMoniker": "Practice Problem 4\\Program.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 4\\Practice Problem 4\\Program.cs*",
+              "RelativeToolTip": "Practice Problem 4\\Program.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T04:46:52.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

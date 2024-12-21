@@ -1,0 +1,7 @@
+C:\Users\Vishal\source\repos\Practice Problem 4\Practice Problem 4\bin\Debug\Practice Problem 4.exe.config
+C:\Users\Vishal\source\repos\Practice Problem 4\Practice Problem 4\bin\Debug\Practice Problem 4.exe
+C:\Users\Vishal\source\repos\Practice Problem 4\Practice Problem 4\bin\Debug\Practice Problem 4.pdb
+C:\Users\Vishal\source\repos\Practice Problem 4\Practice Problem 4\obj\Debug\Practice Problem 4.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Practice Problem 4\Practice Problem 4\obj\Debug\Practice Problem 4.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Practice Problem 4\Practice Problem 4\obj\Debug\Practice Problem 4.exe
+C:\Users\Vishal\source\repos\Practice Problem 4\Practice Problem 4\obj\Debug\Practice Problem 4.pdb
