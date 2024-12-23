@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44726C3F-6CD2-4EA2-A6EA-3916F76548DD}|Practice Problem 5\\Practice Problem 5.csproj|c:\\users\\vishal\\source\\repos\\practice problem 5\\practice problem 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44726C3F-6CD2-4EA2-A6EA-3916F76548DD}|Practice Problem 5\\Practice Problem 5.csproj|solutionrelative:practice problem 5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44726C3F-6CD2-4EA2-A6EA-3916F76548DD}|Practice Problem 5\\Practice Problem 5.csproj|c:\\users\\vishal\\source\\repos\\practice problem 5\\practice problem 5\\cartesiansys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44726C3F-6CD2-4EA2-A6EA-3916F76548DD}|Practice Problem 5\\Practice Problem 5.csproj|solutionrelative:practice problem 5\\cartesiansys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44726C3F-6CD2-4EA2-A6EA-3916F76548DD}|Practice Problem 5\\Practice Problem 5.csproj|c:\\users\\vishal\\source\\repos\\practice problem 5\\practice problem 5\\equalgreatless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44726C3F-6CD2-4EA2-A6EA-3916F76548DD}|Practice Problem 5\\Practice Problem 5.csproj|solutionrelative:practice problem 5\\equalgreatless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EqualGreatLess.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 5\\Practice Problem 5\\EqualGreatLess.cs",
+              "RelativeDocumentMoniker": "Practice Problem 5\\EqualGreatLess.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 5\\Practice Problem 5\\EqualGreatLess.cs",
+              "RelativeToolTip": "Practice Problem 5\\EqualGreatLess.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T05:39:40.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartesianSys.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 5\\Practice Problem 5\\CartesianSys.cs",
+              "RelativeDocumentMoniker": "Practice Problem 5\\CartesianSys.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 5\\Practice Problem 5\\CartesianSys.cs",
+              "RelativeToolTip": "Practice Problem 5\\CartesianSys.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T04:57:49.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 5\\Practice Problem 5\\Program.cs",
+              "RelativeDocumentMoniker": "Practice Problem 5\\Program.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 5\\Practice Problem 5\\Program.cs",
+              "RelativeToolTip": "Practice Problem 5\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T04:47:26.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
