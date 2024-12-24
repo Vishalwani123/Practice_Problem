@@ -10,20 +10,27 @@ namespace PracticeProblem3
     {
         static void Main(string[] args)
         {
-            
+
             // Menu Driven Calculator
-            MenuDriCalcu md = new MenuDriCalcu();
-            md.Display();
-            Console.WriteLine("Press any key to Exits the windows. ");
-            Console.ReadKey();
+            //MenuDriCalcu md = new MenuDriCalcu();
+            //md.Display();
+            //Console.WriteLine("Press any key to Exits the windows. ");
+            //Console.ReadKey();
 
 
             // Movie Ticket Problem
-            //MovieTicket MovTic = new MovieTicket();
-            //MovTic.ValidateLogin();
-            //MovTic.CalculateTicketPrice();
-            //Console.WriteLine("Press any key to exit.");
-            //Console.ReadKey();
+            MovieTicket MovTic = new MovieTicket();
+            bool b = MovTic.ValidateLogin();
+            if (b == true)
+            {
+                MovTic.CalculateTicketPrice();
+            }
+            else
+            {
+                return;
+            }
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadKey();
         }
     }
 }

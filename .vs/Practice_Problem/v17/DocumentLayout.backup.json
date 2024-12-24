@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishal\\source\\repos\\Practice_Problem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vishal\\source\\repos\\Practice_Problem\\PracticeProblem 3\\PracticeProblem3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PracticeProblem 3\\PracticeProblem3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vishal\\source\\repos\\Practice_Problem\\PracticeProblem 3\\PracticeProblem3\\MovieTicket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PracticeProblem 3\\PracticeProblem3\\MovieTicket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vishal\\source\\repos\\Practice_Problem\\PracticeProblem 3\\PracticeProblem3\\MenuDriCalcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PracticeProblem 3\\PracticeProblem3\\MenuDriCalcu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vishal\\source\\repos\\Practice_Problem\\PracticeProblem 1\\PracticeProblem1\\Unique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PracticeProblem 1\\PracticeProblem1\\Unique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 142,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieTicket.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice_Problem\\PracticeProblem 3\\PracticeProblem3\\MovieTicket.cs",
+              "RelativeDocumentMoniker": "PracticeProblem 3\\PracticeProblem3\\MovieTicket.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice_Problem\\PracticeProblem 3\\PracticeProblem3\\MovieTicket.cs",
+              "RelativeToolTip": "PracticeProblem 3\\PracticeProblem3\\MovieTicket.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:46:53.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuDriCalcu.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice_Problem\\PracticeProblem 3\\PracticeProblem3\\MenuDriCalcu.cs",
+              "RelativeDocumentMoniker": "PracticeProblem 3\\PracticeProblem3\\MenuDriCalcu.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice_Problem\\PracticeProblem 3\\PracticeProblem3\\MenuDriCalcu.cs",
+              "RelativeToolTip": "PracticeProblem 3\\PracticeProblem3\\MenuDriCalcu.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:34:52.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice_Problem\\PracticeProblem 3\\PracticeProblem3\\Program.cs",
+              "RelativeDocumentMoniker": "PracticeProblem 3\\PracticeProblem3\\Program.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice_Problem\\PracticeProblem 3\\PracticeProblem3\\Program.cs",
+              "RelativeToolTip": "PracticeProblem 3\\PracticeProblem3\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:34:46.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Unique.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice_Problem\\PracticeProblem 1\\PracticeProblem1\\Unique.cs",
+              "RelativeDocumentMoniker": "PracticeProblem 1\\PracticeProblem1\\Unique.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice_Problem\\PracticeProblem 1\\PracticeProblem1\\Unique.cs",
+              "RelativeToolTip": "PracticeProblem 1\\PracticeProblem1\\Unique.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:33:53.806Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

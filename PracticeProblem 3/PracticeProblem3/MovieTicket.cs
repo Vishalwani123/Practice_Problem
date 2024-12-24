@@ -8,6 +8,7 @@ namespace PracticeProblem3
 {
     internal class MovieTicket
     {
+
         public void CalculateTicketPrice()
         {
             Console.WriteLine("Welcome to the Movie Ticket System!");
@@ -35,7 +36,7 @@ namespace PracticeProblem3
             Console.WriteLine($"The ticket price is : {price:0} Rupees");
         }
 
-        public void ValidateLogin()
+        public bool ValidateLogin()
         {
             Console.WriteLine("Login System");
 
@@ -51,14 +52,21 @@ namespace PracticeProblem3
             if (username != correctUsername)
             {
                 Console.WriteLine("Incorrect username.");
+                Console.ReadKey();
+                return false;
             }
             else if (password != correctPassword)
             {
                 Console.WriteLine("Incorrect password.");
+                Console.ReadKey();
+                return false;
+
             }
             else
             {
                 Console.WriteLine("Login successful!");
+                return true;
+
             }
         }
     }
