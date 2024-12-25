@@ -1,7 +1,0 @@
-C:\Users\Vishal\source\repos\PracticeProblem5\PracticeProblem5\bin\Debug\PracticeProblem5.exe.config
-C:\Users\Vishal\source\repos\PracticeProblem5\PracticeProblem5\bin\Debug\PracticeProblem5.exe
-C:\Users\Vishal\source\repos\PracticeProblem5\PracticeProblem5\bin\Debug\PracticeProblem5.pdb
-C:\Users\Vishal\source\repos\PracticeProblem5\PracticeProblem5\obj\Debug\PracticeProblem5.csproj.AssemblyReference.cache
-C:\Users\Vishal\source\repos\PracticeProblem5\PracticeProblem5\obj\Debug\PracticeProblem5.csproj.CoreCompileInputs.cache
-C:\Users\Vishal\source\repos\PracticeProblem5\PracticeProblem5\obj\Debug\PracticeProblem5.exe
-C:\Users\Vishal\source\repos\PracticeProblem5\PracticeProblem5\obj\Debug\PracticeProblem5.pdb
