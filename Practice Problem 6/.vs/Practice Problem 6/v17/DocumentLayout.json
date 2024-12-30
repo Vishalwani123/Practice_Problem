@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21051AA1-18FF-4B21-9DB0-093B8BD5F443}|Practice Problem 6\\Practice Problem 6.csproj|c:\\users\\vishal\\source\\repos\\practice problem 6\\practice problem 6\\commonelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21051AA1-18FF-4B21-9DB0-093B8BD5F443}|Practice Problem 6\\Practice Problem 6.csproj|solutionrelative:practice problem 6\\commonelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21051AA1-18FF-4B21-9DB0-093B8BD5F443}|Practice Problem 6\\Practice Problem 6.csproj|c:\\users\\vishal\\source\\repos\\practice problem 6\\practice problem 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21051AA1-18FF-4B21-9DB0-093B8BD5F443}|Practice Problem 6\\Practice Problem 6.csproj|solutionrelative:practice problem 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21051AA1-18FF-4B21-9DB0-093B8BD5F443}|Practice Problem 6\\Practice Problem 6.csproj|c:\\users\\vishal\\source\\repos\\practice problem 6\\practice problem 6\\missingnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21051AA1-18FF-4B21-9DB0-093B8BD5F443}|Practice Problem 6\\Practice Problem 6.csproj|solutionrelative:practice problem 6\\missingnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21051AA1-18FF-4B21-9DB0-093B8BD5F443}|Practice Problem 6\\Practice Problem 6.csproj|c:\\users\\vishal\\source\\repos\\practice problem 6\\practice problem 6\\removeduplicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21051AA1-18FF-4B21-9DB0-093B8BD5F443}|Practice Problem 6\\Practice Problem 6.csproj|solutionrelative:practice problem 6\\removeduplicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21051AA1-18FF-4B21-9DB0-093B8BD5F443}|Practice Problem 6\\Practice Problem 6.csproj|c:\\users\\vishal\\source\\repos\\practice problem 6\\practice problem 6\\sortedarrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21051AA1-18FF-4B21-9DB0-093B8BD5F443}|Practice Problem 6\\Practice Problem 6.csproj|solutionrelative:practice problem 6\\sortedarrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21051AA1-18FF-4B21-9DB0-093B8BD5F443}|Practice Problem 6\\Practice Problem 6.csproj|c:\\users\\vishal\\source\\repos\\practice problem 6\\practice problem 6\\secondlargest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21051AA1-18FF-4B21-9DB0-093B8BD5F443}|Practice Problem 6\\Practice Problem 6.csproj|solutionrelative:practice problem 6\\secondlargest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommonElements.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 6\\Practice Problem 6\\CommonElements.cs",
+              "RelativeDocumentMoniker": "Practice Problem 6\\CommonElements.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 6\\Practice Problem 6\\CommonElements.cs",
+              "RelativeToolTip": "Practice Problem 6\\CommonElements.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwE0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:43:03.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MissingNumber.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 6\\Practice Problem 6\\MissingNumber.cs",
+              "RelativeDocumentMoniker": "Practice Problem 6\\MissingNumber.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 6\\Practice Problem 6\\MissingNumber.cs",
+              "RelativeToolTip": "Practice Problem 6\\MissingNumber.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwCgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:25:57.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RemoveDuplicate.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 6\\Practice Problem 6\\RemoveDuplicate.cs",
+              "RelativeDocumentMoniker": "Practice Problem 6\\RemoveDuplicate.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 6\\Practice Problem 6\\RemoveDuplicate.cs",
+              "RelativeToolTip": "Practice Problem 6\\RemoveDuplicate.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:47:22.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SecondLargest.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 6\\Practice Problem 6\\SecondLargest.cs",
+              "RelativeDocumentMoniker": "Practice Problem 6\\SecondLargest.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 6\\Practice Problem 6\\SecondLargest.cs",
+              "RelativeToolTip": "Practice Problem 6\\SecondLargest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T05:01:27.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortedArrays.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 6\\Practice Problem 6\\SortedArrays.cs",
+              "RelativeDocumentMoniker": "Practice Problem 6\\SortedArrays.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 6\\Practice Problem 6\\SortedArrays.cs",
+              "RelativeToolTip": "Practice Problem 6\\SortedArrays.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:39:31.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 6\\Practice Problem 6\\Program.cs",
+              "RelativeDocumentMoniker": "Practice Problem 6\\Program.cs",
+              "ToolTip": "C:\\Users\\Vishal\\source\\repos\\Practice Problem 6\\Practice Problem 6\\Program.cs",
+              "RelativeToolTip": "Practice Problem 6\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T04:36:43.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Vishal\source\repos\Practice Problem 6\Practice Problem 6\bin\Debug\Practice Problem 6.exe.config
+C:\Users\Vishal\source\repos\Practice Problem 6\Practice Problem 6\bin\Debug\Practice Problem 6.exe
+C:\Users\Vishal\source\repos\Practice Problem 6\Practice Problem 6\bin\Debug\Practice Problem 6.pdb
+C:\Users\Vishal\source\repos\Practice Problem 6\Practice Problem 6\obj\Debug\Practice Problem 6.csproj.AssemblyReference.cache
+C:\Users\Vishal\source\repos\Practice Problem 6\Practice Problem 6\obj\Debug\Practice Problem 6.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\Practice Problem 6\Practice Problem 6\obj\Debug\Practice Problem 6.exe
+C:\Users\Vishal\source\repos\Practice Problem 6\Practice Problem 6\obj\Debug\Practice Problem 6.pdb
