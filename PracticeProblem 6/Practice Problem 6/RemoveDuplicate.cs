@@ -16,7 +16,7 @@ namespace Practice_Problem_6
             for (int i = 0; i < str.Length; i++)
             {
                 bool duplicate = false;
-
+                
                 for (int j = 0; j < count; j++)
                 {
                     if (str[i] == result[j])

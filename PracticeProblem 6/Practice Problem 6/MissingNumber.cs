@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Practice_Problem_6
 {
+    
     internal class MissingNumber
     {
         public int FindMissingNumber(int[] Arr)
